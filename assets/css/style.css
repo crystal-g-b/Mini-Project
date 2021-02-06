@@ -1,0 +1,54 @@
+:root {
+    --grey: #808080;
+    --white: #ffF;
+    --purple-text: #52307c;
+}
+
+header {
+    text-align: center;
+    background-color: var(--grey);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--grey);
+}
+
+h1{
+
+}
+
+p{
+
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+section {
+    display: flex;
+    width: 400px;
+    flex-direction: column
+}
+
+section .card-title {
+
+}
+
+section .snippet {
+    background-image: ;
+
+}
+
+pre{
+}
+
+footer{
+}
+
+span{
+}
